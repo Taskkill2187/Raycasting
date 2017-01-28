@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 14 for Windows Desktop
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raycasting", "Raycasting\Raycasting\Raycasting.csproj", "{807A7A06-320D-4055-BF87-5BA81DFE1D77}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "RaycastingContent", "Raycasting\RaycastingContent\RaycastingContent.contentproj", "{E30506F4-955A-4070-A941-EED802A3C237}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{807A7A06-320D-4055-BF87-5BA81DFE1D77}.Debug|x86.ActiveCfg = Debug|x86
+		{807A7A06-320D-4055-BF87-5BA81DFE1D77}.Debug|x86.Build.0 = Debug|x86
+		{807A7A06-320D-4055-BF87-5BA81DFE1D77}.Release|x86.ActiveCfg = Release|x86
+		{807A7A06-320D-4055-BF87-5BA81DFE1D77}.Release|x86.Build.0 = Release|x86
+		{E30506F4-955A-4070-A941-EED802A3C237}.Debug|x86.ActiveCfg = Debug|x86
+		{E30506F4-955A-4070-A941-EED802A3C237}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
